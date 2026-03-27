@@ -1,4 +1,13 @@
 
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>SecurTrack GPS | Protección Vehicular PRO</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Leaflet CSS -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+
 <style>
 body {
   margin: 0;
@@ -10,7 +19,7 @@ body {
 /* HERO */
 .hero {
   text-align: center;
-  padding: 80px 1020px;
+  padding: 80px 20px;
   background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
               url('https://images.unsplash.com/photo-1600320254374-ce2d293c324e') center/cover no-repeat;
 }
